@@ -105,9 +105,9 @@ I work mainly with **Python (FastAPI, Django)** and **Next.js / TypeScript**, an
 | Role | Company | Period |
 |------|---------|--------|
 | Lead Full-Stack Developer | Al Ankabot | Oct 2024 — Jan 2026 |
-| Web Developer | LIT-Co (Plaze e-commerce) | Jun 2023 — Aug 2024 |
+| Frontend Developer | LIT-Co (Plaze e-commerce) | Jun 2023 — Aug 2024 |
 | Freelancer — Full-Stack & Product | Independent | 2022 — Present |
-| Frontend Engineer Intern | LIT-Co | 2022 — May 2023 |
+| Frontend Developer Intern | LIT-Co | April 2023 – Jun 2023|
 
 **Highlights:** 1,000+ payment transactions/month · 10,000+ blockchain votes processed · production e-commerce at [plaze-shop.de](https://plaze-shop.de/)
 
