@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-protfolio.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://protfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmad--alhalwany-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-alhalwany/)
-[![Email](https://img.shields.io/badge/Email-ahmad.alhalwany@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad.alhalwany@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ahmad.s.alhalwany@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad.s.alhalwany@gmail.com)
 
 🟢 **Open to full-time roles** · Remote · Hybrid · EU / MENA
 
@@ -51,7 +51,7 @@ I work mainly with **Python (FastAPI, Django)** and **Next.js / TypeScript**, an
 | **VoteChain** | Solidity · Hardhat · IPFS · Next.js · Ethers.js | [Code](https://github.com/ahmad-alhalwany/vote-chain) |
 | **Mancala 3D** | Java 17 · JavaFX 21 · Minimax AI · JUnit | [Code](https://github.com/ahmad-alhalwany/Mancala-game) |
 
-👉 **All case studies:** [protfolio.vercel.app/projects](https://protfolio.vercel.app/projects)
+👉 **All case studies:** [portfolio-xi-opal-35.vercel.app/projects](https://portfolio-xi-opal-35.vercel.app/projects)
 
 <details>
 <summary><strong>More projects</strong></summary>
