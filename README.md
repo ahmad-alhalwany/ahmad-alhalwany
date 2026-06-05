@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahmad Al-Halwany
+# Ahmad Halwany
 
 **Full-Stack Developer** · Python · Next.js · TypeScript · FastAPI
 
