@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmad--alhalwany-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-alhalwany/)
 [![Email](https://img.shields.io/badge/Email-ahmad.s.alhalwany@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad.s.alhalwany@gmail.com)
 
-🟢 **Open to full-time roles** · Remote · Hybrid · EU / MENA
+🟢 **Open to full-time roles** · Remote · Hybrid · Trier, Germany
 
 </div>
 
