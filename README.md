@@ -6,7 +6,7 @@
 
 *I build production web apps, full-stack systems, and hire-ready products for teams that ship.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-protfolio.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://[protfolio.vercel.app](https://portfolio-xi-opal-35.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-porfolio.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-xi-opal-35.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmad--alhalwany-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-alhalwany/)
 [![Email](https://img.shields.io/badge/Email-ahmad.s.alhalwany@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad.s.alhalwany@gmail.com)
 
